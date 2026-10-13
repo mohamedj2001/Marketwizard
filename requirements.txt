@@ -1,0 +1,6 @@
+fredapi>=0.5.2
+yfinance>=0.2.40
+feedparser>=6.0.11
+transformers>=4.40.0
+torch>=2.2.0
+pandas>=2.2.0
